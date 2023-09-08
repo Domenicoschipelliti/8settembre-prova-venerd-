@@ -1,0 +1,52 @@
+/* Your styles here */
+
+
+.imagine{
+    background-color:rgb(5, 13, 48);
+
+}
+
+
+  .paragrafo {
+   
+    padding: 2px;
+   background-color:rgb(63, 78, 143); 
+   color: white;
+}
+
+div>p{
+    display: inline-block;
+}
+
+.orange{
+    text-align: center;
+    padding: 3px;
+    background-color: darkorange;
+    margin: 20px;
+}
+
+ .ima{
+    
+    text-align: center;
+    padding: 3px;
+    
+    margin: 20px;
+ }
+
+
+  div>.box>img{
+    
+    width: 865px;
+    margin: auto;
+    border: 1px solid black;
+    height: 378px;
+    
+ }
+
+ .p{
+    text-align: center;
+ }
+
+ a{
+    color:darkblue;
+ }
